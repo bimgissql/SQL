@@ -1,2 +1,2 @@
 # SQL
-Set of SQL tips for geospatial analysis.
+Set of tips for geospatial analysis in relational databases.
